@@ -2,7 +2,7 @@
 
 A simple and user-friendly desktop application for converting units, built with Python and Tkinter. This project is my first solo application, created as a way to learn and practice core programming concepts.
 
-
+<img width="304" height="344" alt="Image" src="https://github.com/user-attachments/assets/0a4a8906-602a-460a-9a8b-d051b6873938" />
 
 ## 📖 Description
 
@@ -46,3 +46,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 Thank you for checking out my first project! Any feedback or suggestions are welcome.
+
